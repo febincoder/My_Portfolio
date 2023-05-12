@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Axel Technologies",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "gg",
+    "category": "mean",
+    "links": {
+      "view": "https://febincoder.github.io/axel/"
+    }
+  },
+  {
+    "name": "Main Portfolio",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "tt",
+    "category": "mean",
+    "links": {
+      "view": "https://"
+    }
+  },
+  {
+    "name": "UI UX Design",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "ll",
+    "category": "mean",
+    "links": {
+      "view": "https://febincoder.github.io/ui-ux/"
+    }
+  },
+  {
+    "name": "G7  ",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "hj",
+    "category": "mean",
+    "links": {
+      "view": "https://g7.geany.website/"
+    }
+  },
+  {
+    "name": "Netflix clone",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "gt",
+    "category": "mean",
+    "links": {
+      "view": "https://widfind.m"
+    }
+  },
+  {
+    "name": "spotify clone",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "ss",
+    "category": "mean",
+    "links": {
+      "view": "https://sanincp.github.io/kera"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "hh",
+    "category": "mean",
+    "links": {
+      "view": "https://ajmaltp.geany.website/"
+    }
+  },
+  {
+    "name": "Youtube clone",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "lo",
+    "category": "mean",
+    "links": {
+      "view": "http://www.widfinder."
+    }
+  },
+  {
+    "name": "facebook clone",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "gy",
+    "category": "mean",
+    "links": {
+      "view": "http://www.widfinder"
+    }
+  }
+ 
+
+]
